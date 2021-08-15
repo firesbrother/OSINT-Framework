@@ -3,12 +3,49 @@
     {
       "children": [
         {
-          "name": "NameCheckr",
+          "name": "Pimeyes-Facial Recognition Search",
           "type": "url",
-          "url": "https://www.namecheckr.com/"
+          "url": "https://pimeyes.com/en"
         }
       ],
-      "name": "Test",
+      "name": "Pictures",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "GHunt (T) - Investigate Gmail and GDocs",
+          "type": "url",
+          "url": "https://github.com/mxrch/GHunt"
+        }
+      ],
+      "name": "Email",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Raidforums - marketplace for breaches",
+          "type": "url",
+          "url": "https://raidforums.com/"
+        },
+        {
+          "name": "LinkedIn User ID to email (T)",
+          "type": "url",
+          "url": "https://archive.org/details/LIUsers.7z"
+        },
+        {
+          "name": "Snapchat to phone(T)",
+          "type": "url",
+          "url": "https://archive.org/details/SnapChat.7z"
+        },
+        {
+          "name": "Dehashed - Password leak search(R)",
+          "type": "url",
+          "url": "https://www.dehashed.com/"
+        }  
+      ],
+      "name": "Leaks",
       "type": "folder"
     }
   ],
