@@ -47,6 +47,17 @@
       ],
       "name": "Leaks",
       "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Instagram Proxy",
+          "type": "url",
+          "url": "https://sr.ht/~cadence/bibliogram/"
+        } 
+      ],
+      "name": "Social Media",
+      "type": "folder"
     }
   ],
   "name": "OSINT Framework",
