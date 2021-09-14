@@ -54,9 +54,25 @@
           "name": "Instagram Proxy",
           "type": "url",
           "url": "https://sr.ht/~cadence/bibliogram/"
+        },
+        {
+          "name": "Twitter Account analysis",
+          "type": "url",
+          "url": "https://accountanalysis.app/"
         } 
       ],
       "name": "Social Media",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Many Hats Club - Infosec and OSINT people",
+          "type": "url",
+          "url": "https://themanyhats.club/"
+        } 
+      ],
+      "name": "Resources",
       "type": "folder"
     }
   ],
