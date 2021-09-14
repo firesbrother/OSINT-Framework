@@ -59,6 +59,11 @@
           "name": "Twitter Account analysis",
           "type": "url",
           "url": "https://accountanalysis.app/"
+        },
+        {
+          "name": "Discord OSINT Tools",
+          "type": "url",
+          "url": "https://github.com/Dutchosintguy/OSINT-Discord-resources"
         } 
       ],
       "name": "Social Media",
