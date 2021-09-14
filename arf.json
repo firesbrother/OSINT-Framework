@@ -70,7 +70,27 @@
           "name": "Many Hats Club - Infosec and OSINT people",
           "type": "url",
           "url": "https://themanyhats.club/"
-        } 
+        },
+        {
+          "name": "OSINT Handbook",
+          "type": "url",
+          "url": "https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf"
+        },
+        {
+          "name": "Breadcrumbs Podcast",
+          "type": "url",
+          "url": "https://pod.link/1542092539"
+        },
+        {
+          "name": "UN OSINT Handbook",
+          "type": "url",
+          "url": "https://www.ohchr.org/Documents/Publications/OHCHR_BerkeleyProtocol.pdf"
+        },
+        {
+          "name": "Bellingcat Toolkit",
+          "type": "url",
+          "url": "https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607"
+        }
       ],
       "name": "Resources",
       "type": "folder"
