@@ -67,6 +67,22 @@
     {
       "children": [
         {
+          "name": "uDork Google Dorking Tool (T)",
+          "type": "url",
+          "url": "https://github.com/m3n0sd0n4ld/uDork"
+        },
+        {
+          "name": "Centralops Domain Dossier",
+          "type": "url",
+          "url": "https://centralops.net/co/"
+        } 
+      ],
+      "name": "Domains",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
           "name": "Many Hats Club - Infosec and OSINT people",
           "type": "url",
           "url": "https://themanyhats.club/"
@@ -90,6 +106,11 @@
           "name": "Bellingcat Toolkit",
           "type": "url",
           "url": "https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607"
+        },
+        {
+          "name": "OSINT Toolkit Startpage",
+          "type": "url",
+          "url": "https://start.me/p/BnrMKd/01-osint-hub"
         }
       ],
       "name": "Resources",
