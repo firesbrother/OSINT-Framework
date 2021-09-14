@@ -116,6 +116,11 @@
           "name": "OSINT Toolkit Startpage",
           "type": "url",
           "url": "https://start.me/p/BnrMKd/01-osint-hub"
+        },
+        {
+          "name": "OSINT Dojo",
+          "type": "url",
+          "url": "https://www.osintdojo.com/"
         }
       ],
       "name": "Resources",
