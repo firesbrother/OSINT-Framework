@@ -43,6 +43,11 @@
           "name": "Dehashed - Password leak search(R)",
           "type": "url",
           "url": "https://www.dehashed.com/"
+        },
+        {
+          "name": "Link to download older breached DBs",
+          "type": "url",
+          "url": "https://web.archive.org/web/20190715165644/http://publicdbhost.dmca.gripe/"
         }  
       ],
       "name": "Leaks",
