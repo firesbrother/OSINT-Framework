@@ -17,9 +17,30 @@
           "name": "GHunt (T) - Investigate Gmail and GDocs",
           "type": "url",
           "url": "https://github.com/mxrch/GHunt"
+        },
+        {
+          "name": "Centralops Email Dossier",
+          "type": "url",
+          "url": "https://centralops.net/co/EmailDossier.aspx"
         }
       ],
       "name": "Email",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "OSINT.sh",
+          "type": "url",
+          "url": "https://osint.sh"
+        },
+        {
+          "name": "Centralops",
+          "type": "url",
+          "url": "https://centralops.net/co/"
+        }
+      ],
+      "name": "Toolsets",
       "type": "folder"
     },
     {
