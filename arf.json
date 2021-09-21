@@ -46,6 +46,22 @@
     {
       "children": [
         {
+          "name": "Telnyx VoIP provider",
+          "type": "url",
+          "url": "https://telnyx.com/"
+        },
+        {
+          "name": "Temporary phone number service",
+          "type": "url",
+          "url": "https://temporary-phone-number.com/"
+        }
+      ],
+      "name": "phone numers",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
           "name": "Raidforums - marketplace for breaches",
           "type": "url",
           "url": "https://raidforums.com/"
