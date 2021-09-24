@@ -106,7 +106,12 @@
           "name": "Discord OSINT Tools",
           "type": "url",
           "url": "https://github.com/Dutchosintguy/OSINT-Discord-resources"
-        } 
+        },
+        {
+          "name": "Twiiter Beaver - Twitter OSINT Tool",
+          "type": "url",
+          "url": "https://tweetbeaver.com/"
+        }
       ],
       "name": "Social Media",
       "type": "folder"
