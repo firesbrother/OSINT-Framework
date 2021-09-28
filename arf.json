@@ -6,6 +6,11 @@
           "name": "Pimeyes-Facial Recognition Search",
           "type": "url",
           "url": "https://pimeyes.com/en"
+        },
+        {
+          "name": "Random profile picture replace number",
+          "type": "url",
+          "url": "https://randomuser.me/api/portraits/men/32.jpg"
         }
       ],
       "name": "Pictures",
