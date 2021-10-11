@@ -145,6 +145,11 @@
           "url": "https://themanyhats.club/"
         },
         {
+          "name": "OH SHINT - OSINT Blog",
+          "type": "url",
+          "url": "https://ohshint.gitbook.io/"
+        },
+        {
           "name": "OSINT Handbook",
           "type": "url",
           "url": "https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf"
